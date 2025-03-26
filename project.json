@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/SauleVire/SauleVire-example/main/bin/firmware.bin",
           "offset": 0
         }
       ]
