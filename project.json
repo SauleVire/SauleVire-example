@@ -14,7 +14,7 @@
       ]
     },
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "esp32",
       "parts": [
         {
           "path": "https://raw.githubusercontent.com/SauleVire/SauleVire-example/main/bin/firmware.bin",
