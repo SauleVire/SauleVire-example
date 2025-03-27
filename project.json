@@ -22,7 +22,7 @@
       "chipFamily": "esp32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/SauleVire/SauleVire-example/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/SauleVire/SauleVire-example/main/bin/esp32/firmware.bin",
           "offset": 0
         }
       ]
