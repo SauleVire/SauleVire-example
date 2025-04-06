@@ -1,13 +1,8 @@
 {
   "name": "GyverHub-example",
   "about": "Образец оформления репозитория проекта",
-<<<<<<< HEAD
   "version": "1.3",
   "notes": "Testas",
-=======
-  "version": "1.0",
-  "notes": "KKK AutoOTA",
->>>>>>> 9aae801c2bdeb098c051db4b39516ce6dc464c90
   "builds": [
     {
       "chipFamily": "ESP8266",
